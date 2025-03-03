@@ -1,9 +1,0 @@
-.idea
-
-# Python (Django) dependencies
-__pycache__/
-*.py[cod]
-/venv/
-/.mypy_cache/
-/.pytest_cache/
-db.sqlite3
